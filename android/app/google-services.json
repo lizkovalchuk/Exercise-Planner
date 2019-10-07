@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1033523612655",
+    "firebase_url": "https://exercise-planner-3c19e.firebaseio.com",
+    "project_id": "exercise-planner-3c19e",
+    "storage_bucket": "exercise-planner-3c19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033523612655:android:d76892f7ec6fc91adfc41a",
+        "android_client_info": {
+          "package_name": "ca.lizk.exerciseplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033523612655-rk2gbf09s87bgrpvr2jsvrviofe4ic9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJr_JCLRVIRWpxGEKp_0vBx2XL-CCNJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033523612655-rk2gbf09s87bgrpvr2jsvrviofe4ic9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
